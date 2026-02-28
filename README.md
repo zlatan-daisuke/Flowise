@@ -1,3 +1,5 @@
+<!-- コメント：26年3月1日にこの環境でぷろいできた！ -->
+
 <!-- markdownlint-disable MD030 -->
 
 <p align="center">
